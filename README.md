@@ -77,5 +77,8 @@ Coffee List Displays a list of coffees with their name and region.
 Coffee Details Displays detailed information about a selected coffee.
 
 App_Rreview
+Image 1
+<img width="542" alt="Screenshot 2024-12-18 at 12 41 34 PM" src="https://github.com/user-attachments/assets/56850051-bcf0-4e81-b523-2e633da42446" />
+
 
 
