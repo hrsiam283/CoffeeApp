@@ -1,5 +1,14 @@
 # CoffeeApp
+
+Contributors 
+Name : Hafizur Rahman , Roll : 2007080
+Name : Amit Paul , Roll : 2007083
+Name : Sayaka Alam , Roll : 2007085
+
+Section : B
+
 Welcome to CoffeeApp, a SwiftUI-based application designed to explore and display information about different types of coffee from an external API.
+
 
 Features
 Coffee List: View a comprehensive list of coffee options fetched from a remote API.
@@ -79,6 +88,17 @@ Coffee Details Displays detailed information about a selected coffee.
 App_Rreview
 Image 1
 <img width="542" alt="Screenshot 2024-12-18 at 12 41 34 PM" src="https://github.com/user-attachments/assets/56850051-bcf0-4e81-b523-2e633da42446" />
+
+
+Image 2
+<img width="583" alt="Screenshot 2024-12-18 at 12 41 57 PM" src="https://github.com/user-attachments/assets/e6430e53-3610-4d6f-8974-308f4281d0e5" />
+
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
 
 
 
