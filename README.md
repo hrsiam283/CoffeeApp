@@ -15,6 +15,7 @@ Welcome to CoffeeApp, a SwiftUI-based application designed to explore and displa
 
 
 Features
+
 Coffee List: View a comprehensive list of coffee options fetched from a remote API.
 
 Coffee Details: Explore detailed information about each coffee, including:
